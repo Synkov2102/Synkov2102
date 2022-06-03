@@ -5,4 +5,4 @@
 - ⏳ Хочу стать продуктивнее
 
 🛠 Мой стек: 
-React.js, JavaScript, HTML, CSS
+React.js, JavaScript, HTML, CSS, SCSS, Node.js, Express.js
